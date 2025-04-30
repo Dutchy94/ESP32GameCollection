@@ -2,7 +2,7 @@
 
 Ein modulares, drahtloses Spielsystem auf Basis von ESP32 und ESP32-C3 Mikrocontrollern.  
 Ein zentraler ESP32 mit Display steuert verschiedene Spielmodi.  
-Mehrere dezentrale ESP32-C3-Module mit LEDs und Tastern dienen als Spielerstationen.  
+Mehrere dezentrale ESP32-Module mit LEDs und Tastern dienen als Spielerstationen.  
 Kommunikation erfolgt über ESP-NOW (schnell, stromsparend, kein WLAN nötig).
 
 ---
