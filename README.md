@@ -1,4 +1,4 @@
-# ESP-NOW Spielsystem
+# ESP-NOW Spielsystem (in Development!!!)
 
 Ein modulares, drahtloses Spielsystem auf Basis von ESP32 und ESP32-C3 Mikrocontrollern.  
 Ein zentraler ESP32 mit Display steuert verschiedene Spielmodi.  
